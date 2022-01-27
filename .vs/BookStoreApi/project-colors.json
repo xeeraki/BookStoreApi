@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "83f298df-88ed-4d6e-b9be-7b5024517f27": {
+      "ProjectGuid": "83f298df-88ed-4d6e-b9be-7b5024517f27",
+      "DisplayName": "BookStoreApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
